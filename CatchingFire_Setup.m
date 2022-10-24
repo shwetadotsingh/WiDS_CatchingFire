@@ -13,7 +13,6 @@ if ~isempty(errmsg)&&strcmp(errmsg,'Permission denied')
     fprintf('\nPlease make a copy of the original workshop folder and navigate to it.\n');
     fprintf('You will run the exercises out of the folder copy you created.\n');
 else
-    fprintf('\nWelcome to the Catching Fire Workshop at GHC22.\n');
     fprintf('\nYou have write permission in this folder.\n');
     fprintf('\nInitializing the exercises...\n');
     % Add files to path
