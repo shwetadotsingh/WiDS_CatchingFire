@@ -1,6 +1,7 @@
 # :star: Please complete the prework below! Do not clone this repository directly. :star:
 
-## Catching Fire: Use Drones to Detect and Track Wildfires
+## Catching Fire: Autonomous Drones to Detect and Track Wildfires!
+
 ## Hardware and Software Requirements
 To participate in the workshop, you need: 
 1.	A laptop
