@@ -14,7 +14,7 @@ classdef Exercise1_Step1 < matlab.apps.AppBase
         CenterPanel                  matlab.ui.container.Panel
         STEP3OncereadyclickonthebuttontorunthesimulationLabel  matlab.ui.control.Label
         Exercise1Label               matlab.ui.control.Label
-        GHC2022CatchingFireLabel     matlab.ui.control.Label
+        CatchingFireLabel     matlab.ui.control.Label
         CreatetheScenarioButton      matlab.ui.control.Button
         UIAxes                       matlab.ui.control.UIAxes
         RightPanel                   matlab.ui.container.Panel
@@ -224,12 +224,12 @@ classdef Exercise1_Step1 < matlab.apps.AppBase
             app.CreatetheScenarioButton.Position = [169 15 195 35];
             app.CreatetheScenarioButton.Text = 'Create the Scenario!';
 
-            % Create GHC2022CatchingFireLabel
-            app.GHC2022CatchingFireLabel = uilabel(app.CenterPanel);
-            app.GHC2022CatchingFireLabel.FontName = 'Arial Black';
-            app.GHC2022CatchingFireLabel.FontSize = 20;
-            app.GHC2022CatchingFireLabel.Position = [129 435 290 27];
-            app.GHC2022CatchingFireLabel.Text = 'GHC 2022 - Catching Fire ';
+            % Create CatchingFireLabel
+            app.CatchingFireLabel = uilabel(app.CenterPanel);
+            app.CatchingFireLabel.FontName = 'Arial Black';
+            app.CatchingFireLabel.FontSize = 20;
+            app.CatchingFireLabel.Position = [129 435 290 27];
+            app.CatchingFireLabel.Text = 'Catching Fire ';
 
             % Create Exercise1Label
             app.Exercise1Label = uilabel(app.CenterPanel);
