@@ -229,7 +229,7 @@ classdef Exercise1_Step1 < matlab.apps.AppBase
             app.CatchingFireLabel.FontName = 'Arial Black';
             app.CatchingFireLabel.FontSize = 20;
             app.CatchingFireLabel.Position = [129 435 290 27];
-            app.CatchingFireLabel.Text = 'Catching Fire ';
+            app.CatchingFireLabel.Text = 'Catching Fire Workshop ';
 
             % Create Exercise1Label
             app.Exercise1Label = uilabel(app.CenterPanel);
