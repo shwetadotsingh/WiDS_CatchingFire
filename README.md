@@ -23,7 +23,7 @@ You may leave these fields blank: Activation Key or License Number, Sales rep co
 The workshop uses MATLAB Online. You must activate this license to participate.
 1.	Navigate to this address in Google Chrome. 
 If you are not already logged in, do so:  
-  	https://www.mathworks.com/licensecenter/classroom/3851900/
+  	https://www.mathworks.com/licensecenter/classroom/3883400/
 
 2.	Click Access MATLAB Online.   
 
