@@ -28,9 +28,8 @@ If you are not already logged in, do so:
 
 ## Step III. Access Exercise Files
 Once you have access to MATLAB Online, to get access to the workshop files, use the following commands in the command window:
->> mkdir WiDS_CatchingFire
->> cd("/MATLAB Drive/WiDS_CatchingFire")
->> unzip("https://github.com/mohamedsarah/GHC22CatchingFire/archive/refs/heads/main.zip")
->> cd("GHC22CatchingFire-main")
 
- 
+1. mkdir WiDS_CatchingFire
+2. cd("/MATLAB Drive/WiDS_CatchingFire")
+3. unzip("[https://github.com/shwetadotsingh/WiDS_CatchingFire/archive/refs/heads/main.zip")
+4. cd("WiDS_CatchingFire-main")
