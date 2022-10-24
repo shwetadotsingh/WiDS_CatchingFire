@@ -1,9 +1,7 @@
 % This is the code for checking workshop folder
-% as part of the Catching Fire Workshop presented
-% at the GHC 2022
+% as part of the Catching Fire Workshop
 
 % Run this file to check your environment
-
 
 % Check permissions for Exercise1
 fileName = 'Exercises';
