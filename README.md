@@ -9,10 +9,6 @@ To participate in the workshop, you need:
 
 You will be provided with a temporary workshop license that will give you access to all products used in the workshop, as well as the workshop exercise files.  
 
-## Join the Slack Channel
-For troubleshooting help, please join the following Slack group. Our teaching assistants are monitoring the channel ‘catching-fire-autonomous-drones-for-wildfire-detection’:
-https://mathworksatghc22.slack.com/join/shared_invite/zt-1ggqzmpwl-Cc7TzRc8YMtTgpKjfOzmRQ
-
 ## Step I. Set Up Your MathWorks Account 
 If you don’t have a MathWorks account, you need to create one to get access to MATLAB Online and the material for this event. You will need access to your email on the machine you are using to create the account. 
 
@@ -31,7 +27,10 @@ If you are not already logged in, do so:
 2.	Click Access MATLAB Online.   
 
 ## Step III. Access Exercise Files
-MATLAB Online will try to port your workshop files from GitHub automatically. You will see a dialog pop-up for saving and opening the repository of files. 
-1.	Click on the checkbox to accept outside source code.
-2.	To access the files, hit “Save and Open”.
+Once you have access to MATLAB Online, to get access to the workshop files, use the following commands in the command window:
+>> mkdir WiDS_CatchingFire
+>> cd("/MATLAB Drive/WiDS_CatchingFire")
+>> unzip("https://github.com/mohamedsarah/GHC22CatchingFire/archive/refs/heads/main.zip")
+>> cd("GHC22CatchingFire-main")
+
  
