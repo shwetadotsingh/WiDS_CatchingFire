@@ -32,5 +32,5 @@ Once you have access to MATLAB Online, to get access to the workshop files, use 
 
 1. mkdir WiDS_CatchingFire
 2. cd("/MATLAB Drive/WiDS_CatchingFire")
-3. unzip("[https://github.com/shwetadotsingh/WiDS_CatchingFire/archive/refs/heads/main.zip")
+3. unzip("https://github.com/shwetadotsingh/WiDS_CatchingFire/archive/refs/heads/main.zip")
 4. cd("WiDS_CatchingFire-main")
